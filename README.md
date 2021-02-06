@@ -18,6 +18,7 @@ CC BY-NC 라이선스가 적용되어 있습니다 😆
 
 # English version
 This repository is where you store game code created by beginner developers.
+
 The license is applied and the source is shared under that license.
 
 # License
