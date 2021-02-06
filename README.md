@@ -1,4 +1,6 @@
 # 한국인 전용
+한국인 전용이니 외국인은 영어 버전 보라고 알려주는 거에요 😆 
+
 This part is written in Korean.
 Scroll down to see the English version.
 
